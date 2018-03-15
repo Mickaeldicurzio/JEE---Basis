@@ -1,0 +1,1 @@
+createTechno.do;/response/success.jsp;/response/error.jsp;mvc.actions.ActionCreateTechno
